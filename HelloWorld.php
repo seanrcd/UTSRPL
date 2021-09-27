@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Sean Richard Sindunata</p>
-    <p>1910817210020</p>
-    <p>Hello World, UTS RPL 2021</p>
-  </body>
-</html>
+<?php echo "Sean Richard Sindunata";?><br>
+<?php echo "1910817210020";?><br>
+<?php echo "Hello World, UTS RPL 2021";?>
